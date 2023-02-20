@@ -1,0 +1,7 @@
+div.ui raised very padded text container segment {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+input.prompt {
+    width: 350px;
+}
